@@ -1,0 +1,14 @@
+.Footer{
+    display: flex;
+    margin-top: 50px !important;
+    width: 100% !important;
+    background-color: var(--secondary-color) !important;
+    justify-content: center !important;
+    align-items: center !important;
+    /* height: 80px !important; */
+    /* bottom: 0; */
+    /* position: absolute; */
+}
+.ContFooter{
+    width: 100%;
+}
